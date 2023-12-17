@@ -1,0 +1,12 @@
+{
+  "name": "h5",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "prepare": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.8.2"
+  }
+}

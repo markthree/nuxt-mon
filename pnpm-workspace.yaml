@@ -1,0 +1,5 @@
+packages:
+  - theme
+  - web
+  - admin
+  - h5
