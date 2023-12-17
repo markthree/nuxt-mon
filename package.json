@@ -9,6 +9,6 @@
     "build:h5": "pnpm --filter h5 run build",
     "dev:admin": "pnpm --filter admin run dev",
     "build:admin": "pnpm --filter admin run build",
-    "build:all": "pnpm --filter * run build"
+    "build:*": "pnpm --filter * run build"
   }
 }
